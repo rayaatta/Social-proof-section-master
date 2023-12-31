@@ -12,7 +12,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'League Spartan', sans-serif;
-    font-weight: 400;
+    
 
 }
 body {
@@ -42,6 +42,7 @@ h1 {
 }
 p {
     font-size:0.94rem;
+    font-weight: 400;
 }
 .header > p {
     color:var(--header-p-color);
