@@ -101,7 +101,7 @@ blockquote {
         justify-content: center;
         background: url(bg-pattern-top-desktop.svg), url(bg-pattern-bottom-desktop.svg);
         background-repeat: no-repeat;
-        background-position:top 0 left -25vh, bottom 0vh right -50vh;
+        background-position:top 0 left 0, bottom 0vh right -50vh;
     }
     main {
         width: clamp(48rem, 54rem, 60rem);
