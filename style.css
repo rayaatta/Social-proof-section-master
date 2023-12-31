@@ -65,6 +65,7 @@ div > p {
     color:var(--section-bg);
     margin-block-start: 1rem;
     font-weight: 500;
+    font-size:1.7rem;
 }
 /* main -content*/
 article {
