@@ -41,7 +41,7 @@ h1 {
 
 }
 p {
-    font-size:0.938;
+    font-size:0.94rem;
 }
 .header > p {
     color:var(--header-p-color);
