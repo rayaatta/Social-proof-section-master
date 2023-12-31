@@ -12,7 +12,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'League Spartan', sans-serif;
-    
+    font-size:1rem;
 
 }
 body {
@@ -85,7 +85,7 @@ h2 {
     flex-direction: column;
     margin-inline-start: 1rem;
     color:var(--section-h2-color);
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-weight:500;
 }
 .verified {
@@ -109,6 +109,7 @@ blockquote {
     .header {
         display:grid;
         grid-template-columns: 1fr 1fr;
+        margin-block-end:2rem;
     }
     h1 {
         text-align: left;
